@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Swissknife</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_contacts">ContactsActivity</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_activitytest">Map</string>
+</resources>
